@@ -40,6 +40,7 @@ Applies for windows/macOS/Linux
 
 ```
 cd main
+python -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
 ### 4 .Migrate/Create a database
